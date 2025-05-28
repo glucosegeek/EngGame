@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="mt-6 text-center text-blue-100">
-          <p>Made with ❤️ for young learners</p>
+          <p>Made with ❤️ for Inez</p>
         </div>
       </div>
     </footer>
